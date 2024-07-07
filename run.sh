@@ -1,0 +1,1 @@
+javac --source=8 SaveDesmond.java -d ./bin && clear && java -cp "./bin" SaveDesmond
